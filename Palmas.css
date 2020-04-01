@@ -1,0 +1,71 @@
+
+
+
+
+body{
+
+font-size:20px;
+font-family: 'Oswald',Arial;
+background-color:#ffffcc;
+
+}
+
+
+
+
+
+#cabecalho{
+	margin-top:0;
+	height:30%;
+	position: relative;
+	 padding-bottom:10px;  
+
+}
+
+
+
+p {
+
+	margin-left:200px; 
+	margin-right:200px; 
+}
+
+h1,h2,h3,h4{
+    font-family: 'Oswald',Arial;
+    margin-left:200px; 
+	margin-right:200px; 
+}
+
+h1{
+	text-align:center; 
+	height: 100px;
+	padding-bottom:0;
+	margin: 5px;
+}
+
+h3{
+   text-align:center; 
+   margin-top: 100px;
+}
+
+#margens{
+	margin-top: 5px;
+	margin-left:250px; 
+	margin-right:200px;
+}
+
+#rodape{
+   text-align:center; 
+   margin-top: 300px;
+
+}
+
+#contato{
+	font-family: Verdana,Tahoma;
+    font-size: 15px;
+    background-color: #e5ffcc;
+    max-width: 2000px;
+    max-height: 500px;
+
+}
+
